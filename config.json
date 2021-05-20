@@ -1,0 +1,9 @@
+{
+    "sync" : {
+        "win_len" : 1,
+        "win_amount" : 6
+    },
+    "async" : {
+
+    }
+}
