@@ -1,7 +1,8 @@
 {
     "sync" : {
-        "win_len" : 1,
-        "win_amount" : 6
+        "winLen" : 1,
+        "maxPerTick" : 2,
+        "experimentLen" : 100
     },
     "async" : {
 
