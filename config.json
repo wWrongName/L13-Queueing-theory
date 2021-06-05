@@ -1,10 +1,5 @@
 {
-    "sync" : {
-        "winLen" : 1,
-        "maxPerTick" : 2,
-        "experimentLen" : 100
-    },
-    "async" : {
-
-    }
+    "winLen" : 1,
+    "maxPerTick" : 1,
+    "experimentLen" : 1000
 }
